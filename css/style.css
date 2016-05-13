@@ -1,0 +1,35 @@
+
+.row {
+	color:blue
+}
+
+.container{
+	width:1200px;
+}
+.black{
+	background-color: black;
+	height:100px;
+	
+}
+.white{
+	background-color: white;
+	height:100px
+}
+
+/*
+div.black:hover {
+    background-color: green;
+}
+*/
+
+body{
+	background-color: white;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.red{
+	background-color: red;
+}
